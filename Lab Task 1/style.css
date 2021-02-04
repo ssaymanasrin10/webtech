@@ -1,0 +1,27 @@
+h2{
+	color: red;
+}
+p{
+
+}
+table{
+
+	margin: 0px 0px 0px 140px;
+	}
+.required:after {
+  content:" *";
+  color: red;
+}
+.require:before {
+  content:" *";
+  color: red;
+}
+
+
+.reset{
+	margin:  0px ;
+  
+  
+  
+}
+
